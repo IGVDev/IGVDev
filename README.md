@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working full-time at **Accenture**
 
-- 👯 I’m also working collaboratively with **@ezimon** at **Verseche**
+- 👯 I’m also working collaboratively with [https://github.com/ezimon](**@ezimon**) at **Verseche**
 
 - 📫 You can reach me for work at **guidoigv@gmail.com**
 
