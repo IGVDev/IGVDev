@@ -7,7 +7,7 @@
 
 - 📫 You can reach me for work at **guidoigv@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/igvdev/](https://www.linkedin.com/in/igvdev/)
+- 📄 Know about my experiences [in Linkedin](https://www.linkedin.com/in/igvdev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
