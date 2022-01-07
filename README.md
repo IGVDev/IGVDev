@@ -5,7 +5,7 @@
 
 - 👯 I’m also working collaboratively at **Verseche**
 
-- 📫 How to reach me **guidoigv@gmail.com**
+- 📫 You can reach me for work at **guidoigv@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/igvdev/](https://www.linkedin.com/in/igvdev/)
 
