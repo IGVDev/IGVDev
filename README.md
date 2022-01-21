@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Guido</h1>
-<h3 align="center">A fullstack developer from 🇦🇷 Argentina</h3>
+<h3 align="center">A fullstack developer from Argentina</h3>
 
 - 🔭 I’m currently working full-time at **Accenture**
 
