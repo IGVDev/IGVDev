@@ -1,13 +1,13 @@
 <h1 align="center">Hey! I'm Guido</h1>
-<h3 align="center">A fullstack developer from Argentina</h3>
+<h3 align="center">A fullstack developer from 🇦🇷 Argentina</h3>
 
 - 🔭 I’m currently working full-time at **Accenture**
 
-- 👯 I’m also working collaboratively with [**@ezimon**](https://github.com/ezimon) at **Verseche**
+- 👯 I’m also working collaboratively with [**@ezimon**](https://github.com/ezimon) at **Verseche** (Psst. You can hire us!)
 
-- 📫 You can reach me for work at **guidoigv@gmail.com**
+- 📫 Want to hire me? Reach me at **guidoigv@gmail.com**
 
-- 📄 Know about my experiences [in Linkedin](https://www.linkedin.com/in/igvdev/)
+- 📄 Learn about my experiences [on Linkedin](https://www.linkedin.com/in/igvdev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
