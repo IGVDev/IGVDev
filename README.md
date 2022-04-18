@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working full-time at **Accenture**
 
-- 👯 I’m also working collaboratively with [**@ezimon**](https://github.com/ezimon) at **Verseche** (Psst. You can hire us!)
-
 - 📫 Want to hire me? Reach me at **guidoigv@gmail.com**
 
 - 📄 Learn about my experiences [on Linkedin](https://www.linkedin.com/in/igvdev/)
